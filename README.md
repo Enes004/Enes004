@@ -32,7 +32,6 @@ I'm a 2nd-year Computer Engineering student based in Istanbul, deeply passionate
 * 🔗 **LinkedIn:** [Enes Satıcı](https://www.linkedin.com/in/enes-satıcı-44a347285)
 * 📧 **Email:** [enessatici20@gmail.com] 
 ---
-
 ### 🔥 My GitHub Stats
 
-[![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**Enes004**&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enes004&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
