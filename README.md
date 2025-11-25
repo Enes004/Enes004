@@ -1,4 +1,4 @@
-  # 👋 Hi there, I'm Enes!
+# 👋 Hi there, I'm Enes!
 
 ### 🎓 Computer Engineering Student | AI & ML Enthusiast
 
