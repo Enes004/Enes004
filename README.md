@@ -22,8 +22,7 @@
   <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-3487CD?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/></a>
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn Badge"/></a>
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/></a>
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/></a>
-  <br>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge"/></a>  <br>
   <a href="https://linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/></a>
   <a href="https://github.com/Enes004"><img src="https://img.shields.io/badge/github-%232A2827.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
