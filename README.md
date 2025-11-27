@@ -31,23 +31,26 @@
 ---
 
 ## 🏆 Stats & Trophies
+
 <p align="center">
   <img src="https://github-stats-blond-gamma.vercel.app/api/top-langs/?username=Enes004&layout=compact&theme=dark&v=1&exclude_repo=github-stats" alt="Top Languages" height="500" />
 </p>
+
 <div align="center">
   <img src="https://github-stats-blond-gamma.vercel.app/api?username=Enes004&show_icons=true&theme=dark&exclude_repo=github-stats" alt="GitHub Stats" height="170" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Enes004&theme=dark&hide_border=false" alt="Streak" height="170" />
 </div>
+
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Enes004&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" height="248" />
   <img src="https://leetcard.jacoblin.cool/Enes004?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode" height="248" />
 </div>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Enes004&theme=radical&column=9&margin-w=15&margin-h=15" alt="Trophy">
   </a>
 </p>
-
 ## 📈 Activity and Contributions
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes004&theme=github-dark" alt="Enes Satıcı GitHub Activity Graph" />
