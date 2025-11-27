@@ -55,9 +55,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes004&theme=github-dark" alt="Enes Satıcı GitHub Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Enes004/Enes004/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
 
 ---
 
