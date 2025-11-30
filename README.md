@@ -43,8 +43,7 @@
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Enes004&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" height="248" />
-  <img src="https://leetcard.jacoblin.cool/Enes004?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode" height="248" />
-</div>
+<img src="https://leetcard.jacoblin.cool/VPe4GgF5IP?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode" height="248" /></div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
