@@ -3,7 +3,7 @@
 <div align="center">
   <p>
     🎓 I am a 2nd-year Computer Engineering Bachelor's student at Istanbul Medeniyet University.<br>
-    💡 My fields of passion: <strong>Machine Learning (ML)</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>.<br>
+    💡 My fields of passion: <strong>ROS2 , Machine Learning (ML)</strong>, <strong>Deep Learning</strong>, and <strong>Computer Vision</strong>.<br>
     🧠 <strong>My Philosophy:</strong> Focusing on developing intelligent systems that interpret data and drive the future.<br>
     🚀 I aim to continuously advance my skills in AI and software development to solve real-world problems.
   </p>
